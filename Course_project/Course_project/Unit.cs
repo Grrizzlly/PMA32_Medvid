@@ -18,7 +18,7 @@ namespace Course_project
 
     class unemployed:Unit
     {
-
+        public Information Unemployer { get; set; }
         public string profesion { get; set; }
         public string education { get; set; }
         public string Previous_post { get; set; }
@@ -27,7 +27,7 @@ namespace Course_project
         public string Contacts { get; set; }
         public string requirements { get; set; }
         public unemployed() { }
-        public unemployed(string a,string b,string c,string d, string e, string f, string g, int h) :base( h)
+        public unemployed(Information n, string a,string b,string c,string d, string e, string f, string g, int h) :base( h)
         { 
             a = profesion;
                 b = education;
@@ -36,7 +36,7 @@ namespace Course_project
                 e = Whyfired;
                 f = Contacts;
                 g = requirements;
-
+                n = Unemployer;
         }
         
     }
