@@ -9,10 +9,14 @@ namespace Course_project
     abstract class Unit
     {
         public int Id { get; set; }
+        public string requirements { get; set; }
+        public string Post { get; set; }
         public Unit() { }
-        public Unit(int a)
+        public Unit(int a,string b, string c)
         {
-            a = Id; 
+            a = Id;
+            b = Post;
+            c = requirements;
         }
     }
 
@@ -21,17 +25,17 @@ namespace Course_project
         public Information Unemployer { get; set; }
         public string profesion { get; set; }
         public string education { get; set; }
-        public string Previous_post { get; set; }
+        
         public string Previos_place { get; set; }
         public string Whyfired { get; set; }
         public string Contacts { get; set; }
-        public string requirements { get; set; }
+        
         public unemployed() { }
-        public unemployed(Information n, string a,string b,string c,string d, string e, string f, string g, int h) :base( h)
+        public unemployed(Information n, string a,string b,string c,string d, string e, string f, string g, int h) :base( h,c,g)
         { 
             a = profesion;
                 b = education;
-                c = Previous_post;
+                c = Post;
                 d = Previos_place;
                 e = Whyfired;
                 f = Contacts;
@@ -44,32 +48,31 @@ namespace Course_project
     class Jobs:Unit
     {
         public string Firm { get; set; }
-        public string Position { get; set; }
         public string working_conditions { get; set; }
         public string payment  { get; set; }
-        public string requirements_for_specialist { get; set; }
+       
         public Jobs() { }
         public Jobs(string a, string b, string c, string d, string e, int h)
-            : base(h)
+            : base(h,b,e)
         { 
             a = Firm;
-                b = Position;
+                b = Post;
                 c = working_conditions;
                 d = payment;
-                e = requirements_for_specialist;
+                e = requirements;
                 
         }
 
     }
 
-    class Information : Unit
+    class Information
     {
         public string FirstName { get; set; }
         public string SurName { get; set; }
         public int Year_of_Birth { get; set; }
         public Information() {}
-        public Information(string a, string b,int c, int h)
-            : base(h)
+        public Information(string a, string b,int c)
+            
         { 
             a = FirstName;
                 b = SurName;
