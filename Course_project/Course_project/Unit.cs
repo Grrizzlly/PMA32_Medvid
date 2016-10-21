@@ -6,32 +6,22 @@ using System.Threading.Tasks;
 
 namespace Course_project
 {
-    abstract class Unit
-    {
-        public int Id { get; set; }
-        public string requirements { get; set; }
-        public string Post { get; set; }
-        public Unit() { }
-        public Unit(int a,string b, string c)
-        {
-            a = Id;
-            b = Post;
-            c = requirements;
-        }
-    }
+    
+    
 
-    class unemployed:Unit
+    class unemployed
     {
         public Information Unemployer { get; set; }
         public string profesion { get; set; }
         public string education { get; set; }
-        
+        public string requirements { get; set; }
+        public string Post { get; set; }
         public string Previos_place { get; set; }
         public string Whyfired { get; set; }
         public string Contacts { get; set; }
         
         public unemployed() { }
-        public unemployed(Information n, string a,string b,string c,string d, string e, string f, string g, int h) :base( h,c,g)
+        public unemployed(Information n, string a,string b,string c,string d, string e, string f, string g) 
         { 
             a = profesion;
                 b = education;
@@ -45,15 +35,16 @@ namespace Course_project
         
     }
 
-    class Jobs:Unit
+   abstract class Jobs
     {
         public string Firm { get; set; }
         public string working_conditions { get; set; }
         public string payment  { get; set; }
-       
+        public string requirements { get; set; }
+        public string Post { get; set; }
         public Jobs() { }
-        public Jobs(string a, string b, string c, string d, string e, int h)
-            : base(h,b,e)
+        public Jobs(string a, string b, string c, string d, string e)
+            
         { 
             a = Firm;
                 b = Post;
@@ -65,6 +56,39 @@ namespace Course_project
 
     }
 
+    class Full_employment : Jobs
+
+    {
+        public uint hours_per_day { get; set; }
+        public Full_employment() { }
+        public Full_employment  (string a, string b, string c, string d, string e, uint n)
+            : base(a,c,d,b,e)
+    {
+        a = Firm;
+        b = Post;
+        c = working_conditions;
+        d = payment;
+        e = requirements;
+        n = hours_per_day;
+    }
+    }
+    class underemployment : Jobs
+    {
+        public uint hours_per_day { get; set; }
+        public bool Home_work { get; set; }
+        public underemployment() { }
+        public underemployment  (string a, string b, string c, string d, string e, uint n, bool v)
+            : base(a,c,d,b,e)
+    {
+        a = Firm;
+        b = Post;
+        c = working_conditions;
+        d = payment;
+        e = requirements;
+        n = hours_per_day;
+        v = Home_work;
+    }
+    }
     class Information
     {
         public string FirstName { get; set; }
