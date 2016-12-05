@@ -1,0 +1,15 @@
+C:\Users\Богдан\Documents\PMA32_Medvid\MyMainProject\MyMainProject\bin\Debug\MyMainProject.exe.config
+C:\Users\Богдан\Documents\PMA32_Medvid\MyMainProject\MyMainProject\bin\Debug\MyMainProject.exe
+C:\Users\Богдан\Documents\PMA32_Medvid\MyMainProject\MyMainProject\bin\Debug\MyMainProject.pdb
+C:\Users\Богдан\Documents\PMA32_Medvid\MyMainProject\MyMainProject\bin\Debug\Mono.Security.dll
+C:\Users\Богдан\Documents\PMA32_Medvid\MyMainProject\MyMainProject\bin\Debug\Npgsql.dll
+C:\Users\Богдан\Documents\PMA32_Medvid\MyMainProject\MyMainProject\obj\Debug\MyMainProject.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Documents\PMA32_Medvid\MyMainProject\MyMainProject\obj\Debug\MainWindow.baml
+C:\Users\Богдан\Documents\PMA32_Medvid\MyMainProject\MyMainProject\obj\Debug\MainWindow.g.cs
+C:\Users\Богдан\Documents\PMA32_Medvid\MyMainProject\MyMainProject\obj\Debug\App.g.cs
+C:\Users\Богдан\Documents\PMA32_Medvid\MyMainProject\MyMainProject\obj\Debug\MyMainProject_MarkupCompile.cache
+C:\Users\Богдан\Documents\PMA32_Medvid\MyMainProject\MyMainProject\obj\Debug\MyMainProject.g.resources
+C:\Users\Богдан\Documents\PMA32_Medvid\MyMainProject\MyMainProject\obj\Debug\MyMainProject.Properties.Resources.resources
+C:\Users\Богдан\Documents\PMA32_Medvid\MyMainProject\MyMainProject\obj\Debug\MyMainProject.csproj.GenerateResource.Cache
+C:\Users\Богдан\Documents\PMA32_Medvid\MyMainProject\MyMainProject\obj\Debug\MyMainProject.exe
+C:\Users\Богдан\Documents\PMA32_Medvid\MyMainProject\MyMainProject\obj\Debug\MyMainProject.pdb
