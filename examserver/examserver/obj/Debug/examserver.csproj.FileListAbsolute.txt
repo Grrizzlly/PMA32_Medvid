@@ -1,0 +1,5 @@
+C:\Users\Богдан\Documents\PMA32_Medvid\examserver\examserver\bin\examserver.dll
+C:\Users\Богдан\Documents\PMA32_Medvid\examserver\examserver\bin\examserver.pdb
+C:\Users\Богдан\Documents\PMA32_Medvid\examserver\examserver\obj\Debug\examserver.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Documents\PMA32_Medvid\examserver\examserver\obj\Debug\examserver.dll
+C:\Users\Богдан\Documents\PMA32_Medvid\examserver\examserver\obj\Debug\examserver.pdb

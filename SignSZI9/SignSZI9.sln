@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignSZI9", "SignSZI9\SignSZI9.csproj", "{4087FACA-60D1-42D7-AC22-F66EA1C3DE93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4087FACA-60D1-42D7-AC22-F66EA1C3DE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4087FACA-60D1-42D7-AC22-F66EA1C3DE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4087FACA-60D1-42D7-AC22-F66EA1C3DE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4087FACA-60D1-42D7-AC22-F66EA1C3DE93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

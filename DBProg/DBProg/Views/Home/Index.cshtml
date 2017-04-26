@@ -1,0 +1,29 @@
+﻿@model IEnumerable<DBProg.Models.Book>
+
+@*@{
+   <!-- Layout = "~/Views/Shared/_Layout.cshtml";-->
+}*@
+    <div>
+        <h3>Книги:</h3>
+        <table id="Inp1">
+            <tr class="header"><td><p>Назва книги</p></td>
+                <td><p>Автор</p></td>
+                <td><p>Ціна</p></td><td></td>
+            </tr>
+            @foreach (DBProg.Models.Book b in Model)
+            {
+            <tr>
+                <td><p>@b.Name</p></td>
+                <td><p>@b.Author</p></td>
+                <td><p>@b.Price</p></td>
+
+                <td><p><a href="/Home/Buy/@b.Id">Купити</a></p></td>
+                <td> <input name="Inp2" /> </td>
+              
+            </tr>
+                //if()
+                //{
+                //}
+            }
+        </table>
+    </div>

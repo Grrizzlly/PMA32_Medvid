@@ -1,0 +1,41 @@
+c:\users\oleg\documents\visual studio 2015\Projects\server\server\bin\Debug\server.exe.config
+c:\users\oleg\documents\visual studio 2015\Projects\server\server\bin\Debug\server.exe
+c:\users\oleg\documents\visual studio 2015\Projects\server\server\bin\Debug\server.pdb
+c:\users\oleg\documents\visual studio 2015\Projects\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+c:\users\oleg\documents\visual studio 2015\Projects\server\server\obj\Debug\server.exe
+c:\users\oleg\documents\visual studio 2015\Projects\server\server\obj\Debug\server.pdb
+E:\загрузки\server\server\bin\Debug\server.exe.config
+E:\загрузки\server\server\obj\Debug\server.exe
+E:\загрузки\server\server\obj\Debug\server.pdb
+E:\загрузки\server\server\bin\Debug\server.exe
+E:\загрузки\server\server\bin\Debug\server.pdb
+E:\загрузки\server\server\bin\Debug\mscorlib.dll
+E:\загрузки\server\server\bin\Debug\System.Net.Http.dll
+E:\загрузки\server\server\bin\Debug\System.Net.Http.xml
+E:\загрузки\server\server\bin\Debug\ru\mscorlib.resources.dll
+E:\загрузки\server\server\bin\Debug\ru\System.Net.Http.resources.dll
+E:\загрузки\server\server\bin\Debug\normidna.nlp
+E:\загрузки\server\server\bin\Debug\normnfc.nlp
+E:\загрузки\server\server\bin\Debug\normnfd.nlp
+E:\загрузки\server\server\bin\Debug\normnfkc.nlp
+E:\загрузки\server\server\bin\Debug\normnfkd.nlp
+E:\загрузки\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Documents\PMA32_Medvid\server\server\bin\Debug\server.exe.config
+C:\Users\Богдан\Documents\PMA32_Medvid\server\server\obj\Debug\server.exe
+C:\Users\Богдан\Documents\PMA32_Medvid\server\server\obj\Debug\server.pdb
+C:\Users\Богдан\Documents\PMA32_Medvid\server\server\bin\Debug\server.exe
+C:\Users\Богдан\Documents\PMA32_Medvid\server\server\bin\Debug\server.pdb
+C:\Users\Богдан\Documents\PMA32_Medvid\server\server\bin\Debug\mscorlib.dll
+C:\Users\Богдан\Documents\PMA32_Medvid\server\server\bin\Debug\System.Net.Http.dll
+C:\Users\Богдан\Documents\PMA32_Medvid\server\server\bin\Debug\System.Net.Http.xml
+C:\Users\Богдан\Documents\PMA32_Medvid\server\server\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Богдан\Documents\PMA32_Medvid\server\server\bin\Debug\ru\System.Net.Http.resources.dll
+C:\Users\Богдан\Documents\PMA32_Medvid\server\server\bin\Debug\normidna.nlp
+C:\Users\Богдан\Documents\PMA32_Medvid\server\server\bin\Debug\normnfc.nlp
+C:\Users\Богдан\Documents\PMA32_Medvid\server\server\bin\Debug\normnfd.nlp
+C:\Users\Богдан\Documents\PMA32_Medvid\server\server\bin\Debug\normnfkc.nlp
+C:\Users\Богдан\Documents\PMA32_Medvid\server\server\bin\Debug\normnfkd.nlp
+C:\Users\Богдан\Documents\PMA32_Medvid\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Documents\PMA32_Medvid\server\server\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Богдан\Documents\PMA32_Medvid\server\server\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Богдан\Documents\PMA32_Medvid\server\server\bin\Debug\ru\System.Net.Http.WebRequest.resources.dll

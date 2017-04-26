@@ -1,0 +1,217 @@
+.mainNav {
+    width: auto;
+    border: solid darkblue;
+    float: left;
+    left: 0;
+    top: 40%;
+    position: fixed;
+    border-top-right-radius: 11px;
+    border-bottom-right-radius: 11px;
+    border-left: none;
+    cursor: pointer;
+    
+    
+    
+}
+
+.mainNav > ul {
+    display: inline-block;
+    list-style-type:  none;
+    padding: 0;
+    height: 100%;
+    margin: 0;
+    border-radius: 12px;
+    font-size: 19px;
+    font-family: "Verdana";
+    
+}
+
+.mainNav > ul > li {
+    margin: 0 auto 0 auto;
+    
+    width: auto;
+    border-bottom: 1px solid darkblue;
+    
+    text-align: center;
+    height: auto;
+    padding: 10px;
+    
+    
+    
+}
+
+#t {
+ border-top-right-radius: 12px;    
+}
+
+#b {
+ border-bottom-right-radius: 12px;    
+}
+
+.mainNav > ul > li:hover {
+    
+    background-color: rgba(128,128,128,0.7);
+    transition: 500ms;
+    cursor: pointer;
+}
+
+.mainNav > ul > li > a {
+    margin: 0;
+    text-decoration: none;
+    
+}
+
+.mainNav > ul > li > a:active {
+    margin: 0;
+    text-decoration: none;
+    color: black;
+    
+        
+    
+}
+
+.mainNav > ul > li > a:visited {
+    margin: 0;
+    text-decoration: none;
+    color: black;
+    
+}
+
+body {
+    background-image:url(images/360_07.png);
+    
+}
+
+header {
+    width: 80%;
+    height: 80px;
+    border: 3px solid darkblue;
+    margin: 10px auto;
+    border-radius: 10px;
+     font-family: "Verdana";
+    font-size: 40px;
+    
+    font-weight: 700;
+    font-style: italic;
+    color:cadetblue;
+}
+
+#mainSec {
+    width: 80%;
+    height: auto;
+    border: 3px solid darkblue;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+footer {
+     width: 80%;
+    height: 30px;
+    border: 3px solid darkblue;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+#contentNav {
+    float: right;
+    width: auto;
+    height: auto;
+    border-left: 3px solid darkblue;
+    border-bottom: 3px solid darkblue;
+    border-bottom-left-radius: 10px;
+}
+#content {
+    padding: 20px;
+}
+#content > h1 {
+    font-family: "Verdana";
+    text-align: center;
+    color: cadetblue;
+    font-size: 30px;
+}
+#content > article {
+    font-family: "Verdana";
+    font-size: 15px;
+    color:black;
+}
+
+
+header > img {
+    height: 100%;
+    float: right;
+    width: 30%;
+    color: darkgoldenrod;
+   
+    
+}
+#mainSec > #contentNav >h2 {
+    font-family: "Verdana";
+    font-size: 20px;
+    color: cadetblue;
+}
+
+#mainSec > #contentNav > ul >li {
+    list-style-type: none;
+    margin: 15px;
+    font-family: "Verdana";
+    font-style: italic;
+    font-weight: 700;
+    
+    
+}
+footer{
+    text-align: center;
+    font-family: "Verdana";
+    font-size: 15px;
+    font-weight: 300;
+}
+
+#mainSec > #contentNav > ul >li>a{
+    text-decoration: none;
+    color: cadetblue;
+}
+
+
+
+
+
+.hedd {
+    background-color: rgba(107,202,226,0.5);
+    
+}
+
+.tftable {
+    border:1px solid darkblue;
+    width: 90%;
+    margin:10px auto;
+    text-align: center;
+    border-collapse: collapse;
+    
+     
+    
+}
+
+#artic {
+    padding: 10px;
+}
+
+#mainSec {
+   
+    font-family: "Verdana";
+    font-size: 15px;
+    color:black;
+}
+
+#ee{
+    float: right;
+    right: 10px;
+    width: 400px;
+    margin: 10px;
+    z-index: 2;
+}
+#aa {
+    float: left;
+
+    margin: 10px;
+    width: 400px;
+    height: auto;
+}

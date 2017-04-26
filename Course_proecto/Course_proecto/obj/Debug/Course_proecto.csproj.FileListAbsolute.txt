@@ -1,0 +1,17 @@
+C:\Users\Богдан\Documents\PMA32_Medvid\Course_proecto\Course_proecto\bin\Debug\Course_proecto.exe.config
+C:\Users\Богдан\Documents\PMA32_Medvid\Course_proecto\Course_proecto\bin\Debug\Course_proecto.exe
+C:\Users\Богдан\Documents\PMA32_Medvid\Course_proecto\Course_proecto\bin\Debug\Course_proecto.pdb
+C:\Users\Богдан\Documents\PMA32_Medvid\Course_proecto\Course_proecto\bin\Debug\EntityFramework.dll
+C:\Users\Богдан\Documents\PMA32_Medvid\Course_proecto\Course_proecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Богдан\Documents\PMA32_Medvid\Course_proecto\Course_proecto\bin\Debug\EntityFramework.xml
+C:\Users\Богдан\Documents\PMA32_Medvid\Course_proecto\Course_proecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Богдан\Documents\PMA32_Medvid\Course_proecto\Course_proecto\obj\Debug\Course_proecto.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Documents\PMA32_Medvid\Course_proecto\Course_proecto\obj\Debug\MainWindow.baml
+C:\Users\Богдан\Documents\PMA32_Medvid\Course_proecto\Course_proecto\obj\Debug\MainWindow.g.cs
+C:\Users\Богдан\Documents\PMA32_Medvid\Course_proecto\Course_proecto\obj\Debug\App.g.cs
+C:\Users\Богдан\Documents\PMA32_Medvid\Course_proecto\Course_proecto\obj\Debug\Course_proecto_MarkupCompile.cache
+C:\Users\Богдан\Documents\PMA32_Medvid\Course_proecto\Course_proecto\obj\Debug\Course_proecto.g.resources
+C:\Users\Богдан\Documents\PMA32_Medvid\Course_proecto\Course_proecto\obj\Debug\Course_proecto.Properties.Resources.resources
+C:\Users\Богдан\Documents\PMA32_Medvid\Course_proecto\Course_proecto\obj\Debug\Course_proecto.csproj.GenerateResource.Cache
+C:\Users\Богдан\Documents\PMA32_Medvid\Course_proecto\Course_proecto\obj\Debug\Course_proecto.exe
+C:\Users\Богдан\Documents\PMA32_Medvid\Course_proecto\Course_proecto\obj\Debug\Course_proecto.pdb

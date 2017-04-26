@@ -1,0 +1,9 @@
+C:\Users\Богдан\Documents\PMA32_Medvid\SignSZI9\SignSZI9\bin\Debug\SignSZI9.exe.config
+C:\Users\Богдан\Documents\PMA32_Medvid\SignSZI9\SignSZI9\bin\Debug\SignSZI9.exe
+C:\Users\Богдан\Documents\PMA32_Medvid\SignSZI9\SignSZI9\bin\Debug\SignSZI9.pdb
+C:\Users\Богдан\Documents\PMA32_Medvid\SignSZI9\SignSZI9\obj\Debug\SignSZI9.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Documents\PMA32_Medvid\SignSZI9\SignSZI9\obj\Debug\SignSZI9.Form1.resources
+C:\Users\Богдан\Documents\PMA32_Medvid\SignSZI9\SignSZI9\obj\Debug\SignSZI9.Properties.Resources.resources
+C:\Users\Богдан\Documents\PMA32_Medvid\SignSZI9\SignSZI9\obj\Debug\SignSZI9.csproj.GenerateResource.Cache
+C:\Users\Богдан\Documents\PMA32_Medvid\SignSZI9\SignSZI9\obj\Debug\SignSZI9.exe
+C:\Users\Богдан\Documents\PMA32_Medvid\SignSZI9\SignSZI9\obj\Debug\SignSZI9.pdb

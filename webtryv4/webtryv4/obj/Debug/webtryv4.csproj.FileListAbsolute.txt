@@ -1,0 +1,5 @@
+C:\Users\Богдан\Documents\PMA32_Medvid\webtryv4\webtryv4\bin\webtryv4.dll
+C:\Users\Богдан\Documents\PMA32_Medvid\webtryv4\webtryv4\bin\webtryv4.pdb
+C:\Users\Богдан\Documents\PMA32_Medvid\webtryv4\webtryv4\obj\Debug\webtryv4.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Documents\PMA32_Medvid\webtryv4\webtryv4\obj\Debug\webtryv4.dll
+C:\Users\Богдан\Documents\PMA32_Medvid\webtryv4\webtryv4\obj\Debug\webtryv4.pdb

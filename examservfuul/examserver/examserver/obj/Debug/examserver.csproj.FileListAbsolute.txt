@@ -1,0 +1,14 @@
+C:\Users\Богдан\Documents\PMA32_Medvid\examserver\examserver\bin\examserver.dll
+C:\Users\Богдан\Documents\PMA32_Medvid\examserver\examserver\bin\examserver.pdb
+C:\Users\Богдан\Documents\PMA32_Medvid\examserver\examserver\obj\Debug\examserver.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Documents\PMA32_Medvid\examserver\examserver\obj\Debug\examserver.dll
+C:\Users\Богдан\Documents\PMA32_Medvid\examserver\examserver\obj\Debug\examserver.pdb
+C:\Users\Богдан\Documents\PMA32_Medvid\examservfuul\examserver\examserver\bin\examserver.dll
+C:\Users\Богдан\Documents\PMA32_Medvid\examservfuul\examserver\examserver\bin\examserver.pdb
+C:\Users\Богдан\Documents\PMA32_Medvid\examservfuul\examserver\examserver\bin\EntityFramework.dll
+C:\Users\Богдан\Documents\PMA32_Medvid\examservfuul\examserver\examserver\bin\EntityFramework.SqlServer.dll
+C:\Users\Богдан\Documents\PMA32_Medvid\examservfuul\examserver\examserver\bin\EntityFramework.xml
+C:\Users\Богдан\Documents\PMA32_Medvid\examservfuul\examserver\examserver\bin\EntityFramework.SqlServer.xml
+C:\Users\Богдан\Documents\PMA32_Medvid\examservfuul\examserver\examserver\obj\Debug\examserver.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Documents\PMA32_Medvid\examservfuul\examserver\examserver\obj\Debug\examserver.dll
+C:\Users\Богдан\Documents\PMA32_Medvid\examservfuul\examserver\examserver\obj\Debug\examserver.pdb

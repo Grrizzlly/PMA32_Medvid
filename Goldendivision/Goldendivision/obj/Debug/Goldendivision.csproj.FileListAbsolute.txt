@@ -1,0 +1,5 @@
+C:\Users\Богдан\Documents\PMA32_Medvid\Goldendivision\Goldendivision\bin\Debug\Goldendivision.exe
+C:\Users\Богдан\Documents\PMA32_Medvid\Goldendivision\Goldendivision\bin\Debug\Goldendivision.pdb
+C:\Users\Богдан\Documents\PMA32_Medvid\Goldendivision\Goldendivision\obj\Debug\Goldendivision.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Documents\PMA32_Medvid\Goldendivision\Goldendivision\obj\Debug\Goldendivision.exe
+C:\Users\Богдан\Documents\PMA32_Medvid\Goldendivision\Goldendivision\obj\Debug\Goldendivision.pdb
